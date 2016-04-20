@@ -23,6 +23,13 @@ REGULAR_GUYS = [
   'everyone'
   'gang'
   'all'
+  'yall'
+  'all yall'
+  'comrades'
+  'danceaholics'
+  'minions'
+  'peons'
+  'proletariat'
 ]
 
 getRandomItem = (items) ->
